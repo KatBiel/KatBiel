@@ -1,6 +1,6 @@
 # Kat Biel
 
-Junior software developer. Career changer with 9 years of previous experience in customer service and recruitment. Makers Academy graduate: learning the foundations of coding in 16 weeks and building a [fully functional web app](https://tutormatchfe.onrender.com/).
+Junior software developer and Cybersecurity Engineer. Career changer with 9 years of previous experience in customer service and recruitment. Makers Academy graduate: learning the foundations of coding in 16 weeks and building a [fully functional web app](https://tutormatchfe.onrender.com/).
 
 [CV](https://github.com/KatBiel/CV) [Email](mailto:katarzynaa89@gmail.com) [LinkedIn](https://www.linkedin.com/in/kat-bielecka/)
 
